@@ -2,7 +2,19 @@ What's up ?
 Xie Jian is a workholic!
 Changlin boy, I believe you can cook dinner in no time!
 newer
+<<<<<<< HEAD
+543986758769048-
+=======
 haha
+<<<<<<< HEAD
 
 97987<F9>6
 98798
+=======
+>>>>>>> tony
+2443536
+
+54654364
+
+46456547
+>>>>>>> master
